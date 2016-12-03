@@ -1,0 +1,4 @@
+com\suman\Controller\AdminController.class
+com\suman\Handler\RegistrationHandler.class
+com\suman\Controller\HomeController.class
+com\suman\Controller\ProductController.class
